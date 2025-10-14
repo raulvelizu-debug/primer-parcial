@@ -1,0 +1,1 @@
+import{Ha as n,Ia as a,La as c,ua as e}from"./chunk-WH2XCT3K.js";var s=class o{static \u0275fac=function(t){return new(t||o)};static \u0275cmp=e({type:o,selectors:[["app-contactos"]],decls:2,vars:0,template:function(t,m){t&1&&(n(0,"h2"),c(1,"Contactos Manaco"),a())},encapsulation:2})};export{s as Contactos};

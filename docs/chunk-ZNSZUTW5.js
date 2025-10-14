@@ -1,0 +1,1 @@
+import{Ha as i,Ia as n,La as c,ua as s}from"./chunk-WH2XCT3K.js";var o=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=s({type:t,selectors:[["app-services"]],decls:2,vars:0,template:function(e,a){e&1&&(i(0,"h2"),c(1,"SERVICIOS MANACO"),n())},encapsulation:2})};export{o as Services};
