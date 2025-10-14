@@ -10,6 +10,11 @@ export const routes: Routes = [
                 path:'',
                 loadComponent:()=>
                     import('./home/home').then(m=>m.Home)
+            },
+            {
+                path:'services',
+                loadComponent:()=>
+                    import('./services/services').then(m=>m.Services)
             }
         ]
     }
